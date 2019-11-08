@@ -50,7 +50,7 @@ The `cleanup.sh` and `wallamaker.sh` scripts should be placed in a directory con
 Currently this only works on a flat file structure.
 If you want to extend this script to respect sorted directories of wallpapers, go for it. PRs are welcomed.
 
-If you wish to update your README and contact sheet with newly wallpapers, just add them into the root of the this directory and run `wallamaker.sh` again. It will only generate thumbnails for the newly placed images. 
+If you wish to update your README and contact sheet with new wallpapers, just add them into the root of the this directory and run `wallamaker.sh` again. It will only generate thumbnails for the newly placed images. 
 
 If you wish to delete a wallpaper, you should remove it from both `hi_res/` and `thumbs/` or it will still be included in the contact sheet.
 
