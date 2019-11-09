@@ -2,9 +2,9 @@
 
 echo "Checking directory structure."
 if [ -d hi_res ] && [ -d thumbs ]; then
-    echo "it looks like you have run wallamaker.sh before."
+    echo "It looks like you have run wallamaker.sh before."
     echo "Ignoring images already in hi_res/"
-    echo "New photos should be placed in project root."
+    echo "Note: NEW photos should be placed in the directory root, not hi_res/."
     rm -v contact-sheet.jpg
     echo "Updating thumbnails with new images..."
     echo "Generating new thumbnails with max dimension 500 pixels"
