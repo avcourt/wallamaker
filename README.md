@@ -75,3 +75,47 @@ Place `cleanup.sh` and `wallamaker.sh` in a directory containing **only** your w
 `$ ./cleanup`
 
 This will restore the original flat structure containing only your wallpapers and the `cleanup.sh` and `wallamaker.sh` scripts.
+![contact sheet](contact-sheet.jpg)
+### hi_res/pic1.jpg}
+![hi_res/pic1.jpg](hi_res/pic1.jpg)
+***
+### hi_res/pic2.jpg}
+![hi_res/pic2.jpg](hi_res/pic2.jpg)
+***
+### hi_res/pic3.jpg}
+![hi_res/pic3.jpg](hi_res/pic3.jpg)
+***
+### hi_res/pic4.jpg}
+![hi_res/pic4.jpg](hi_res/pic4.jpg)
+***
+### hi_res/pic5.jpg}
+![hi_res/pic5.jpg](hi_res/pic5.jpg)
+***
+### hi_res/pic6.jpg}
+![hi_res/pic6.jpg](hi_res/pic6.jpg)
+***
+### hi_res/pic7.jpg}
+![hi_res/pic7.jpg](hi_res/pic7.jpg)
+***
+![contact sheet](contact-sheet.jpg)
+### hi_res/pic1.jpg}
+![hi_res/pic1.jpg](hi_res/pic1.jpg)
+***
+### hi_res/pic2.jpg}
+![hi_res/pic2.jpg](hi_res/pic2.jpg)
+***
+### hi_res/pic3.jpg}
+![hi_res/pic3.jpg](hi_res/pic3.jpg)
+***
+### hi_res/pic4.jpg}
+![hi_res/pic4.jpg](hi_res/pic4.jpg)
+***
+### hi_res/pic5.jpg}
+![hi_res/pic5.jpg](hi_res/pic5.jpg)
+***
+### hi_res/pic6.jpg}
+![hi_res/pic6.jpg](hi_res/pic6.jpg)
+***
+### hi_res/pic7.jpg}
+![hi_res/pic7.jpg](hi_res/pic7.jpg)
+***
