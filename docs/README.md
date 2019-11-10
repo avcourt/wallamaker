@@ -59,7 +59,7 @@ If you wish to update your README and contact sheet with new wallpapers, just ad
 If you wish to delete a wallpaper, you should remove it from both `hi_res/` and `thumbs/` or it will still be included in the contact sheet.
 
 ## Dependencies
-This script uses ![ImageMagick](https://imagemagick.org/index.php).
+This script uses [ImageMagick](https://imagemagick.org/index.php).
 
 #### Linux
 Use your favorite package manager (aur, apt, yum, zipper, etc):  
