@@ -4,7 +4,7 @@
 
 Wallamaker will create thumbnails and a contact sheet of all of your wallpapers. It will also generate a nice looking `README` for easy sharing with the rest of us on GitHub. You can check out my wallpaper repository ![here](https://github.com/avcourt/wallpapers) for an idea of what the finished product looks like.
 
-***Note**: This readme is stored in `docs/`as the generated readme will be created in the root directory when you run `wallamaker.sh` and deleted when running `cleanup.sh`.*
+***Note**: This readme is stored in `docs/`as the generated readme will be created in the root directory when you run `wallamaker.sh` and is deleted by `cleanup.sh`.*
 
 ![Demo](../docs/demo.gif)
 
