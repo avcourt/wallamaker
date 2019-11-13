@@ -1,7 +1,7 @@
 #!/bin/bash
 
 RES=500 # max thumb resolution, if you are running out of memory and
-         # mogrify or montage is failing, try lowering this value.
+        # mogrify or montage is failing, try lowering this value.
 
 echo "Checking directory structure."
 if [ -d hi_res ] && [ -d thumbs ]; then
