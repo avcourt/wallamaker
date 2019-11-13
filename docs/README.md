@@ -72,7 +72,13 @@ Use your favorite package manager (aur, apt, yum, zipper, etc):
 ## Run
 Place `cleanup.sh` and `wallamaker.sh` in a directory containing **only** your wallpapers. Or if you'd prefer, you can just clone this repo and place your own images in here instead.
 
-`$ git clone https://github.com/avcourt/wallamaker.git`
+`$ git clone https://github.com/avcourt/wallamaker.git` 
+
+`$ cd wallamaker`
+
+`$ rm *.jpg`  
+
+`$ cp /your/wallpapers/* .`
 
 `$ ./wallamaker.sh`
 
