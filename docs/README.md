@@ -50,7 +50,7 @@ After running `wallamaker.sh` the file structure would be as follows:
 
 The `cleanup.sh` and `wallamaker.sh` scripts should be placed in a directory containing **only** wallpapers with `gif`, `jpeg` `jpg`, and `png` extensions. If you want support for other extensions, simply add them in `wallamaker.sh`.
 
-The max resolution is currently hardcoded inside `wallamaker.sh` to 500px. If you have many wallpapers, the creation of the contact sheet may fail if the thumbnail resolution is too high. Experiement with different values.
+The max resolution is currently hardcoded inside `wallamaker.sh` to 500px. If you have many wallpapers, the creation of the contact sheet may fail if the thumbnail resolution is too high. Experiment with different values.
 
 Currently this only works on a flat file structure.
 If you want to extend this script to respect sorted directories of wallpapers, go for it. PRs are welcomed.
