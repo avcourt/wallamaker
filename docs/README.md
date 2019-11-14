@@ -63,20 +63,22 @@ If you wish to delete a wallpaper, you should remove it from both `hi_res/` and 
 This script uses [ImageMagick](https://imagemagick.org/index.php).
 
 #### Linux
-Use your favorite package manager (aur, apt, yum, zipper, etc):  
+Use your favorite package manager (aur, apt, yum, zipper, pacman, etc):  
 `$ sudo apt install imagemagick`
 
 #### MacOS
 `$ brew install imagemagick`
 
 ## Run
-Place `cleanup.sh` and `wallamaker.sh` in a directory containing **only** your wallpapers. Or if you'd prefer, you can just clone this repo and place your own images in here instead.
+Place `cleanup.sh` and `wallamaker.sh` in a flat directory containing your wallpapers. 
+
+If you'd prefer, you can just clone this repo and place your own images in here instead:
 
 `$ git clone https://github.com/avcourt/wallamaker.git` 
 
 `$ cd wallamaker`
 
-`$ rm *.jpg`  
+`$ rm *.jpg # remove the sample wallpapers ignore if you wanna keep em` 
 
 `$ cp /your/wallpapers/* .`
 
