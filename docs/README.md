@@ -78,7 +78,7 @@ If you'd prefer, you can just clone this repo and place your own images in here 
 
 `$ cd wallamaker`
 
-`$ rm *.jpg # remove the sample wallpapers ignore if you wanna keep em` 
+`$ rm *.jpg` (removes the included sample wallpapers. Ignore if you wanna keep em.) 
 
 `$ cp /your/wallpapers/* .`
 
