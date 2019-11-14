@@ -84,7 +84,7 @@ If you'd prefer, you can just clone this repo and place your own images in here 
 
 `$ ./wallamaker.sh`
 
-#### Cleanup
+### Cleanup
 `$ ./cleanup`
 
 This will restore the original flat structure containing only your wallpapers and the `cleanup.sh` and `wallamaker.sh` scripts.
