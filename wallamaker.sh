@@ -25,10 +25,10 @@ echo "Generating contact sheet"
 montage thumbs/* contact-sheet.jpg
 
 echo "Generating README"
-echo "![contact sheet](contact-sheet.jpg)" >> README.md
+printf "![contact sheet](contact-sheet.jpg)\n" >> README.md
 for image in hi_res/*
 do
-    echo "### $image}" >> README.md
-    echo "![$image]($image)" >> README.md
-    echo "***" >> README.md
+    printf "### ![$image]($image)\n" >> README.md
+    printf "\n![$image]($image)\n" >> README.md
+    printf "\n***" >> README.md
 done
